@@ -4,7 +4,7 @@
 *Add multiple catogaries witout adding new Element.\
 *Responsive.\
 *ReloadFree.\
-*Non-Repated Codes.\
+*Non-Repated Codes.
 
 # Getting Started with Create React App
 
