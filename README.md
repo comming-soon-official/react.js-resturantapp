@@ -1,5 +1,5 @@
 <<====Features====>>.\
-*Acess code using Custom Api.\ 
+*Acess code using Custom Api. \
 *Simplicate codeflow in app.\
 *Add multiple catogaries witout adding new Element.\
 *Responsive.\
