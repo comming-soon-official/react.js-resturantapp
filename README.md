@@ -1,10 +1,10 @@
 <<====Features====>>
 
-*Simplicate code flow in app
-*Add multiple catogaries witout adding new Element
-*Responsive
-*ReloadFree
-*Non-Repated Codes
+*Simplicate code flow in app.\
+*Add multiple catogaries witout adding new Element.\
+*Responsive.\
+*ReloadFree.\
+*Non-Repated Codes.\
 
 # Getting Started with Create React App
 
