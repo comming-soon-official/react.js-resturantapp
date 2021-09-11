@@ -1,9 +1,9 @@
 <<====Features====>>
-
-*Simplicate code flow in app.\
+*Acess code using Custom Api.\ 
+*Simplicate codeflow in app.\
 *Add multiple catogaries witout adding new Element.\
 *Responsive.\
-*ReloadFree.\
+*Re-loadFree.\
 *Non-Repated Codes.
 
 # Getting Started with Create React App
